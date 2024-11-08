@@ -169,3 +169,5 @@ all_emails_raw.csv
 sender_statistics.csv
 top_senders.png
 top_frequent_senders.png
+*.png
+*.csv
